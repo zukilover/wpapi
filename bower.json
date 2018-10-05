@@ -1,0 +1,22 @@
+{
+  "name": "wpapi",
+  "main": "wpapi.js",
+  "authors": [
+    "WP-API team"
+  ],
+  "description": "WP-API node-wpapi bowerified",
+  "keywords": [
+    "wpapi",
+    "WP-API",
+    "node-wpapi"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/WP-API/node-wpapi",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
